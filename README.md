@@ -11,6 +11,7 @@
 * [Flutter - Dart Cheat Sheet](https://dart.dev/codelabs/dart-cheatsheet)
 * [Flutter - First Project Codelab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
 * [Flutter Learn](https://flutter.dev/learn)
+* [Live Stream Flutter App Demo](https://www.youtube.com/watch?v=hN4Q04ODOEw)
 
 ## Windows Setup
 
